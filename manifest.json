@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "eBay Profit Calculator",
+  "version": "1.0",
+  "description": "Calculate profits and fees for eBay listings",
+  "permissions": ["storage"],
+  "action": {
+    "default_popup": "index.html"
+  }
+}
